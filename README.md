@@ -1,2 +1,4 @@
 # axorus-game
-My 2DRPG called The Axorus
+
+The Axorus is my 2D RPG that is built in the Godot Game Engine
+
